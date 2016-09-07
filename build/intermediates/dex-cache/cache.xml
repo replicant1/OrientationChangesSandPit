@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_2f4b6eed4971fd09f521896da38fa5fcf7187ed8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d414ebe5dafb152ec9e15411bd6714de21fe117e">
+        <dex dex="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2e4171419dce8c061c2a879998071dbb457f265d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rodbailey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_107ec54a0ea959a8ee696b5d73637a1c1a2dad84/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_de2315428e8598d2b1987c14e499f514964e154d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02efc188a2c54303d74dad26074f48e1440d321f">
+        <dex dex="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7a10352b98a4c8f82856cd3f54988a808cb704d/classes.dex" />
+    </item>
+
+</items>

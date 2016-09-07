@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="29211321050135"
+    token="8128463815142991784" >
+
+    <task
+        name="javac"
+        duration="4222" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="264" />
+    <task
+        name="verifier"
+        duration="15" />
+
+    <artifact
+        location="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="29211321050135" >
+        <artifact
+            location="/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

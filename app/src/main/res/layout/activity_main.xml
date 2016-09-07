@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="rod.bailey.portrait.MainActivity">
+
+    <!-- Lower down in the file means higher in the Z order (above). Views added lower in file are on top -->
+
+    <FrameLayout
+        android:id="@+id/red_fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@color/Pink"/>
+
+    <!-- The blue_fragment_container is on top of the red_fragment_container -->
+
+    <FrameLayout
+        android:id="@+id/blue_fragment_container"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_centerInParent="true"
+        />
+
+</RelativeLayout>

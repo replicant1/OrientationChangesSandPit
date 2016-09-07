@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/res/merged/debug/layout/red_fragment.xml",
+        "source": "/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/src/main/res/layout/red_fragment.xml"
+    },
+    {
+        "merged": "/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/res/merged/debug/layout/blue_fragment.xml",
+        "source": "/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/src/main/res/layout/blue_fragment.xml"
+    },
+    {
+        "merged": "/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/rodbailey/AndroidStudioProjects/OrientationChangesSandPit/app/src/main/res/layout/activity_main.xml"
+    }
+]
